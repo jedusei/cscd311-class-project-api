@@ -2,7 +2,8 @@
 Backend for Hall Registration website assignment
 
 # Setup
-Clone the repository, open the directory in any terminal of your choice, and run npm install.
-Run npm start afterwards to start the server.
-
-Open "localhost/reset" in your browser to initialize the database.
+1.  Clone the repository.
+2.  Open the root directory in any terminal of your choice.
+3.  Run npm install.
+4.  Run npm start afterwards to start the server.
+5.  Open "localhost/reset" in your browser to initialize the database.
