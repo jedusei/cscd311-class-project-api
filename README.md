@@ -1,5 +1,5 @@
 # cscd311-project-api
-Backend for Hall Registration website (https://github.com/jedusei/cscd311-project-web).
+Backend for Hall Registration website (https://github.com/jedusei/cscd311-class-project-web).
 
 By Joseph Edusei (ID: 10681279)
 
