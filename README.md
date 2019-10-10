@@ -1,5 +1,5 @@
 # cscd311-project-api-10681279
-Backend for Hall Registration website assignment
+Backend for Hall Registration website (https://github.com/jedusei/cscd311-project-web-10681279)
 
 # Requirements
 You should have MongoDB installed and running on your computer.
